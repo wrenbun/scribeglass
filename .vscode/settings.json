@@ -6,5 +6,8 @@
         "markdown",
         "latex",
         "plaintext"
+    ],
+    "rust-analyzer.linkedProjects" : [
+        "wasm/text-analysis/Cargo.toml"
     ]
 }
